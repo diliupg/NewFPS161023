@@ -1,1 +1,1 @@
-This is the Old MYFPSGAME - BP with the Player character and all relevant files migrated from the FPSGame220923.
+This is the NEW FPS GAME built on the  Old "MYFPSGAME-BP" with the Player character and all relevant files migrated from the "FPSGame220923".
