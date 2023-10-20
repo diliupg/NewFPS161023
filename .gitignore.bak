@@ -6,21 +6,18 @@
 =======
 
 Content/AnimStarterPack/*
-Content/CustomizableArmsAnims/*
 Content/Effects/*
 Content/GoodSky/*
 Content/InfinityBladeWeapons/*
-Content/MigratedAssets/*
 Content/Mannequin/*
-Content/MilitaryWeaponsSilver/*
+Content/MigratedAssets/*
 Content/ShooterGame/*
 Content/StarterContent/*
 Content/UE_ThirdPerson/*
 Content/UE_ThirdPersonBP/*
 Content/UE_FirstPerson/*
 Content/UE_FirstPersonBP/*
-Content/ModularLostRuinKit/*
-
+Content/WeaponMeshes/*
 =======
 
 # Visual Studio 2015 user specific files
